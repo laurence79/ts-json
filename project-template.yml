@@ -1,0 +1,9 @@
+uses:
+  repo: git@github.com:rivr-systems/oap-repo-templates.git
+  path: public-code-library
+
+parameters:
+  projectName: "@laurence79/ts-json"
+  projectTitle: "Typescript JSON Types"
+  projectDescription: "A library that adds JSON types, for working with JSON in a more typesafe manner."
+  repoName: "ts-json"
